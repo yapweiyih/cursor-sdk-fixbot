@@ -1,0 +1,6 @@
+{
+  "version": 1,
+  "hooks": {
+    "preToolUse": [{ "command": "python3 .cursor/hooks/protect_tests.py", "matcher": "Write" }]
+  }
+}
