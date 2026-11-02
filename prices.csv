@@ -1,0 +1,471 @@
+sku,name,unit_price
+APP-S0A,small apple (single) grade A,13.66
+APP-S0B,small apple (single) grade B,6.57
+APP-S0C,small apple (single) grade C,16.57
+APP-S0D,small apple (single) grade D,2.37
+APP-S0E,small apple (single) grade E,3.36
+APP-S0F,small apple (single) grade F,22.34
+APP-S0G,small apple (single) grade G,4.25
+APP-S0H,small apple (single) grade H,15.37
+APP-S0I,small apple (single) grade I,2.77
+APP-S0J,small apple (single) grade J,21.18
+APP-S1A,small apple (pack of 6) grade A,9.19
+APP-S1B,small apple (pack of 6) grade B,1.93
+APP-S1C,small apple (pack of 6) grade C,3.92
+APP-S1D,small apple (pack of 6) grade D,18.16
+APP-S1E,small apple (pack of 6) grade E,17.52
+APP-S1F,small apple (pack of 6) grade F,3.26
+APP-S1G,small apple (pack of 6) grade G,10.25
+APP-S1H,small apple (pack of 6) grade H,4.11
+APP-S1I,small apple (pack of 6) grade I,22.97
+APP-S1J,small apple (pack of 6) grade J,17.78
+APP-S2A,small apple (pack of 12) grade A,2.82
+APP-S2B,small apple (pack of 12) grade B,23.56
+APP-S2C,small apple (pack of 12) grade C,5.47
+APP-S2D,small apple (pack of 12) grade D,9.54
+APP-S2E,small apple (pack of 12) grade E,2.93
+APP-S2F,small apple (pack of 12) grade F,16.64
+APP-S2G,small apple (pack of 12) grade G,2.43
+APP-S2H,small apple (pack of 12) grade H,9.45
+APP-S2I,small apple (pack of 12) grade I,2.30
+APP-S2J,small apple (pack of 12) grade J,23.20
+APP-S3A,small apple (crate) grade A,5.85
+APP-S3B,small apple (crate) grade B,12.26
+APP-S3C,small apple (crate) grade C,17.56
+APP-S3D,small apple (crate) grade D,6.30
+APP-S3E,small apple (crate) grade E,22.54
+APP-S3F,small apple (crate) grade F,5.22
+APP-S3G,small apple (crate) grade G,23.78
+APP-S3H,small apple (crate) grade H,13.03
+APP-S3I,small apple (crate) grade I,23.34
+APP-S3J,small apple (crate) grade J,7.80
+APP-M0A,medium apple (single) grade A,4.62
+APP-M0B,medium apple (single) grade B,23.79
+APP-M0C,medium apple (single) grade C,8.09
+APP-M0D,medium apple (single) grade D,15.65
+APP-M0E,medium apple (single) grade E,4.39
+APP-M0F,medium apple (single) grade F,22.83
+APP-M0G,medium apple (single) grade G,2.97
+APP-M0H,medium apple (single) grade H,23.51
+APP-M0I,medium apple (single) grade I,2.84
+APP-M0J,medium apple (single) grade J,8.83
+APP-M1A,medium apple (pack of 6) grade A,20.73
+APP-M1B,medium apple (pack of 6) grade B,22.17
+APP-M1C,medium apple (pack of 6) grade C,17.91
+APP-M1D,medium apple (pack of 6) grade D,13.26
+APP-M1E,medium apple (pack of 6) grade E,19.47
+APP-M1F,medium apple (pack of 6) grade F,18.96
+APP-M1G,medium apple (pack of 6) grade G,15.21
+APP-M1H,medium apple (pack of 6) grade H,12.67
+APP-M1I,medium apple (pack of 6) grade I,10.57
+APP-M1J,medium apple (pack of 6) grade J,7.76
+APP-M2A,medium apple (pack of 12) grade A,10.39
+APP-M2B,medium apple (pack of 12) grade B,3.75
+APP-M2C,medium apple (pack of 12) grade C,23.92
+APP-M2D,medium apple (pack of 12) grade D,12.69
+APP-M2E,medium apple (pack of 12) grade E,21.91
+APP-M2F,medium apple (pack of 12) grade F,20.67
+APP-M2G,medium apple (pack of 12) grade G,14.46
+APP-M2H,medium apple (pack of 12) grade H,18.78
+APP-M2I,medium apple (pack of 12) grade I,12.19
+APP-M2J,medium apple (pack of 12) grade J,3.39
+APP-M3A,medium apple (crate) grade A,5.23
+APP-M3B,medium apple (crate) grade B,21.36
+APP-M3C,medium apple (crate) grade C,17.52
+APP-M3D,medium apple (crate) grade D,7.15
+APP-M3E,medium apple (crate) grade E,14.41
+APP-M3F,medium apple (crate) grade F,6.62
+APP-M3G,medium apple (crate) grade G,20.42
+APP-M3H,medium apple (crate) grade H,17.67
+APP-M3I,medium apple (crate) grade I,2.00
+APP-M3J,medium apple (crate) grade J,3.57
+APP-L0A,large apple (single) grade A,23.25
+APP-L0B,large apple (single) grade B,23.87
+APP-L0C,large apple (single) grade C,13.25
+APP-L0D,large apple (single) grade D,14.33
+APP-L0E,large apple (single) grade E,14.74
+APP-L0F,large apple (single) grade F,20.74
+APP-L0G,large apple (single) grade G,19.08
+APP-L0H,large apple (single) grade H,3.21
+APP-L0I,large apple (single) grade I,4.23
+APP-L0J,large apple (single) grade J,11.45
+APP-L1A,large apple (pack of 6) grade A,19.81
+APP-L1B,large apple (pack of 6) grade B,3.06
+APP-L1C,large apple (pack of 6) grade C,2.88
+APP-L1D,large apple (pack of 6) grade D,13.08
+APP-L1E,large apple (pack of 6) grade E,18.65
+APP-L1F,large apple (pack of 6) grade F,12.05
+APP-L1G,large apple (pack of 6) grade G,16.20
+APP-L1H,large apple (pack of 6) grade H,14.61
+APP-L1I,large apple (pack of 6) grade I,1.32
+APP-L1J,large apple (pack of 6) grade J,19.31
+APP-L2A,large apple (pack of 12) grade A,14.95
+APP-L2B,large apple (pack of 12) grade B,7.28
+APP-L2C,large apple (pack of 12) grade C,5.19
+APP-L2D,large apple (pack of 12) grade D,20.62
+APP-L2E,large apple (pack of 12) grade E,2.81
+APP-L2F,large apple (pack of 12) grade F,9.33
+APP-L2G,large apple (pack of 12) grade G,12.17
+APP-L2H,large apple (pack of 12) grade H,5.69
+APP-L2I,large apple (pack of 12) grade I,10.54
+APP-L2J,large apple (pack of 12) grade J,16.69
+APP-L3A,large apple (crate) grade A,16.41
+APP-L3B,large apple (crate) grade B,20.73
+APP-L3C,large apple (crate) grade C,3.70
+APP-L3D,large apple (crate) grade D,7.21
+APP-L3E,large apple (crate) grade E,18.79
+APP-L3F,large apple (crate) grade F,16.85
+APP-L3G,large apple (crate) grade G,22.90
+APP-L3H,large apple (crate) grade H,11.78
+APP-L3I,large apple (crate) grade I,6.00
+APP-L3J,large apple (crate) grade J,18.03
+PEA-S0A,small pear (single) grade A,22.93
+PEA-S0B,small pear (single) grade B,11.80
+PEA-S0C,small pear (single) grade C,17.41
+PEA-S0D,small pear (single) grade D,15.09
+PEA-S0E,small pear (single) grade E,15.98
+PEA-S0F,small pear (single) grade F,9.85
+PEA-S0G,small pear (single) grade G,6.58
+PEA-S0H,small pear (single) grade H,3.79
+PEA-S0I,small pear (single) grade I,7.61
+PEA-S0J,small pear (single) grade J,6.59
+PEA-S1A,small pear (pack of 6) grade A,9.90
+PEA-S1B,small pear (pack of 6) grade B,9.95
+PEA-S1C,small pear (pack of 6) grade C,0.89
+PEA-S1D,small pear (pack of 6) grade D,20.26
+PEA-S1E,small pear (pack of 6) grade E,7.86
+PEA-S1F,small pear (pack of 6) grade F,11.16
+PEA-S1G,small pear (pack of 6) grade G,11.94
+PEA-S1H,small pear (pack of 6) grade H,0.56
+PEA-S1I,small pear (pack of 6) grade I,6.36
+PEA-S1J,small pear (pack of 6) grade J,17.56
+PEA-S2A,small pear (pack of 12) grade A,22.29
+PEA-S2B,small pear (pack of 12) grade B,15.52
+PEA-S2C,small pear (pack of 12) grade C,23.59
+PEA-S2D,small pear (pack of 12) grade D,13.45
+PEA-S2E,small pear (pack of 12) grade E,5.54
+PEA-S2F,small pear (pack of 12) grade F,21.51
+PEA-S2G,small pear (pack of 12) grade G,2.61
+PEA-S2H,small pear (pack of 12) grade H,19.10
+PEA-S2I,small pear (pack of 12) grade I,23.30
+PEA-S2J,small pear (pack of 12) grade J,16.47
+PEA-S3A,small pear (crate) grade A,16.70
+PEA-S3B,small pear (crate) grade B,16.74
+PEA-S3C,small pear (crate) grade C,16.54
+PEA-S3D,small pear (crate) grade D,4.64
+PEA-S3E,small pear (crate) grade E,20.12
+PEA-S3F,small pear (crate) grade F,16.80
+PEA-S3G,small pear (crate) grade G,2.94
+PEA-S3H,small pear (crate) grade H,8.20
+PEA-S3I,small pear (crate) grade I,3.15
+PEA-S3J,small pear (crate) grade J,8.95
+PEA-M0A,medium pear (single) grade A,18.44
+PEA-M0B,medium pear (single) grade B,7.04
+PEA-M0C,medium pear (single) grade C,4.90
+PEA-M0D,medium pear (single) grade D,14.32
+PEA-M0E,medium pear (single) grade E,2.55
+PEA-M0F,medium pear (single) grade F,4.59
+PEA-M0G,medium pear (single) grade G,0.40
+PEA-M0H,medium pear (single) grade H,23.61
+PEA-M0I,medium pear (single) grade I,6.59
+PEA-M0J,medium pear (single) grade J,22.37
+PEA-M1A,medium pear (pack of 6) grade A,4.55
+PEA-M1B,medium pear (pack of 6) grade B,15.29
+PEA-M1C,medium pear (pack of 6) grade C,1.44
+PEA-M1D,medium pear (pack of 6) grade D,3.28
+PEA-M1E,medium pear (pack of 6) grade E,8.91
+PEA-M1F,medium pear (pack of 6) grade F,15.81
+PEA-M1G,medium pear (pack of 6) grade G,6.48
+PEA-M1H,medium pear (pack of 6) grade H,10.73
+PEA-M1I,medium pear (pack of 6) grade I,14.62
+PEA-M1J,medium pear (pack of 6) grade J,15.31
+PEA-M2A,medium pear (pack of 12) grade A,19.82
+PEA-M2B,medium pear (pack of 12) grade B,5.43
+PEA-M2C,medium pear (pack of 12) grade C,5.12
+PEA-M2D,medium pear (pack of 12) grade D,20.39
+PEA-M2E,medium pear (pack of 12) grade E,19.48
+PEA-M2F,medium pear (pack of 12) grade F,20.07
+PEA-M2G,medium pear (pack of 12) grade G,20.21
+PEA-M2H,medium pear (pack of 12) grade H,13.17
+PEA-M2I,medium pear (pack of 12) grade I,3.91
+PEA-M2J,medium pear (pack of 12) grade J,6.30
+PEA-M3A,medium pear (crate) grade A,4.58
+PEA-M3B,medium pear (crate) grade B,14.43
+PEA-M3C,medium pear (crate) grade C,11.24
+PEA-M3D,medium pear (crate) grade D,20.00
+PEA-M3E,medium pear (crate) grade E,7.01
+PEA-M3F,medium pear (crate) grade F,21.54
+PEA-M3G,medium pear (crate) grade G,1.34
+PEA-M3H,medium pear (crate) grade H,8.80
+PEA-M3I,medium pear (crate) grade I,22.03
+PEA-M3J,medium pear (crate) grade J,15.21
+PEA-L0A,large pear (single) grade A,6.40
+PEA-L0B,large pear (single) grade B,22.64
+PEA-L0C,large pear (single) grade C,1.50
+PEA-L0D,large pear (single) grade D,22.03
+PEA-L0E,large pear (single) grade E,12.60
+PEA-L0F,large pear (single) grade F,4.12
+PEA-L0G,large pear (single) grade G,11.09
+PEA-L0H,large pear (single) grade H,21.63
+PEA-L0I,large pear (single) grade I,15.42
+PEA-L0J,large pear (single) grade J,7.24
+PEA-L1A,large pear (pack of 6) grade A,14.96
+PEA-L1B,large pear (pack of 6) grade B,9.52
+PEA-L1C,large pear (pack of 6) grade C,22.21
+PEA-L1D,large pear (pack of 6) grade D,22.58
+PEA-L1E,large pear (pack of 6) grade E,20.99
+PEA-L1F,large pear (pack of 6) grade F,13.90
+PEA-L1G,large pear (pack of 6) grade G,9.53
+PEA-L1H,large pear (pack of 6) grade H,8.39
+PEA-L1I,large pear (pack of 6) grade I,10.20
+PEA-L1J,large pear (pack of 6) grade J,16.81
+PEA-L2A,large pear (pack of 12) grade A,9.68
+PEA-L2B,large pear (pack of 12) grade B,8.58
+PEA-L2C,large pear (pack of 12) grade C,21.60
+PEA-L2D,large pear (pack of 12) grade D,20.58
+PEA-L2E,large pear (pack of 12) grade E,14.96
+PEA-L2F,large pear (pack of 12) grade F,1.58
+PEA-L2G,large pear (pack of 12) grade G,1.54
+PEA-L2H,large pear (pack of 12) grade H,11.84
+PEA-L2I,large pear (pack of 12) grade I,19.74
+PEA-L2J,large pear (pack of 12) grade J,11.01
+PEA-L3A,large pear (crate) grade A,8.33
+PEA-L3B,large pear (crate) grade B,14.50
+PEA-L3C,large pear (crate) grade C,18.71
+PEA-L3D,large pear (crate) grade D,14.71
+PEA-L3E,large pear (crate) grade E,15.33
+PEA-L3F,large pear (crate) grade F,3.69
+PEA-L3G,large pear (crate) grade G,9.43
+PEA-L3H,large pear (crate) grade H,4.58
+PEA-L3I,large pear (crate) grade I,9.69
+PEA-L3J,large pear (crate) grade J,19.65
+PLU-S0A,small plum (single) grade A,8.45
+PLU-S0B,small plum (single) grade B,14.23
+PLU-S0C,small plum (single) grade C,8.77
+PLU-S0D,small plum (single) grade D,20.16
+PLU-S0E,small plum (single) grade E,0.47
+PLU-S0F,small plum (single) grade F,20.03
+PLU-S0G,small plum (single) grade G,14.49
+PLU-S0H,small plum (single) grade H,3.87
+PLU-S0I,small plum (single) grade I,5.31
+PLU-S0J,small plum (single) grade J,16.31
+PLU-S1A,small plum (pack of 6) grade A,8.56
+PLU-S1B,small plum (pack of 6) grade B,19.98
+PLU-S1C,small plum (pack of 6) grade C,7.71
+PLU-S1D,small plum (pack of 6) grade D,18.17
+PLU-S1E,small plum (pack of 6) grade E,14.01
+PLU-S1F,small plum (pack of 6) grade F,3.95
+PLU-S1G,small plum (pack of 6) grade G,16.61
+PLU-S1H,small plum (pack of 6) grade H,19.37
+PLU-S1I,small plum (pack of 6) grade I,16.84
+PLU-S1J,small plum (pack of 6) grade J,3.87
+PLU-S2A,small plum (pack of 12) grade A,6.90
+PLU-S2B,small plum (pack of 12) grade B,7.36
+PLU-S2C,small plum (pack of 12) grade C,5.60
+PLU-S2D,small plum (pack of 12) grade D,1.52
+PLU-S2E,small plum (pack of 12) grade E,6.59
+PLU-S2F,small plum (pack of 12) grade F,19.46
+PLU-S2G,small plum (pack of 12) grade G,6.38
+PLU-S2H,small plum (pack of 12) grade H,19.82
+PLU-S2I,small plum (pack of 12) grade I,14.75
+PLU-S2J,small plum (pack of 12) grade J,6.78
+PLU-S3A,small plum (crate) grade A,22.87
+PLU-S3B,small plum (crate) grade B,22.85
+PLU-S3C,small plum (crate) grade C,5.76
+PLU-S3D,small plum (crate) grade D,1.27
+PLU-S3E,small plum (crate) grade E,0.98
+PLU-S3F,small plum (crate) grade F,4.60
+PLU-S3G,small plum (crate) grade G,21.96
+PLU-S3H,small plum (crate) grade H,6.10
+PLU-S3I,small plum (crate) grade I,18.16
+PLU-S3J,small plum (crate) grade J,8.37
+PLU-M0A,medium plum (single) grade A,9.04
+PLU-M0B,medium plum (single) grade B,1.54
+PLU-M0C,medium plum (single) grade C,10.71
+PLU-M0D,medium plum (single) grade D,9.11
+PLU-M0E,medium plum (single) grade E,12.39
+PLU-M0F,medium plum (single) grade F,20.92
+PLU-M0G,medium plum (single) grade G,10.25
+PLU-M0H,medium plum (single) grade H,13.75
+PLU-M0I,medium plum (single) grade I,11.02
+PLU-M0J,medium plum (single) grade J,22.69
+PLU-M1A,medium plum (pack of 6) grade A,17.56
+PLU-M1B,medium plum (pack of 6) grade B,5.76
+PLU-M1C,medium plum (pack of 6) grade C,2.89
+PLU-M1D,medium plum (pack of 6) grade D,14.89
+PLU-M1E,medium plum (pack of 6) grade E,19.16
+PLU-M1F,medium plum (pack of 6) grade F,21.56
+PLU-M1G,medium plum (pack of 6) grade G,17.62
+PLU-M1H,medium plum (pack of 6) grade H,20.94
+PLU-M1I,medium plum (pack of 6) grade I,5.75
+PLU-M1J,medium plum (pack of 6) grade J,22.18
+PLU-M2A,medium plum (pack of 12) grade A,6.61
+PLU-M2B,medium plum (pack of 12) grade B,21.84
+PLU-M2C,medium plum (pack of 12) grade C,21.31
+PLU-M2D,medium plum (pack of 12) grade D,1.16
+PLU-M2E,medium plum (pack of 12) grade E,18.42
+PLU-M2F,medium plum (pack of 12) grade F,7.90
+PLU-M2G,medium plum (pack of 12) grade G,0.56
+PLU-M2H,medium plum (pack of 12) grade H,6.53
+PLU-M2I,medium plum (pack of 12) grade I,7.45
+PLU-M2J,medium plum (pack of 12) grade J,6.19
+PLU-M3A,medium plum (crate) grade A,19.79
+PLU-M3B,medium plum (crate) grade B,5.32
+PLU-M3C,medium plum (crate) grade C,23.19
+PLU-M3D,medium plum (crate) grade D,2.92
+PLU-M3E,medium plum (crate) grade E,13.75
+PLU-M3F,medium plum (crate) grade F,21.63
+PLU-M3G,medium plum (crate) grade G,22.13
+PLU-M3H,medium plum (crate) grade H,23.15
+PLU-M3I,medium plum (crate) grade I,20.16
+PLU-M3J,medium plum (crate) grade J,4.74
+PLU-L0A,large plum (single) grade A,23.34
+PLU-L0B,large plum (single) grade B,2.72
+PLU-L0C,large plum (single) grade C,10.57
+PLU-L0D,large plum (single) grade D,8.23
+PLU-L0E,large plum (single) grade E,11.74
+PLU-L0F,large plum (single) grade F,2.12
+PLU-L0G,large plum (single) grade G,4.40
+PLU-L0H,large plum (single) grade H,21.19
+PLU-L0I,large plum (single) grade I,18.92
+PLU-L0J,large plum (single) grade J,23.40
+PLU-L1A,large plum (pack of 6) grade A,1.54
+PLU-L1B,large plum (pack of 6) grade B,2.99
+PLU-L1C,large plum (pack of 6) grade C,18.55
+PLU-L1D,large plum (pack of 6) grade D,13.73
+PLU-L1E,large plum (pack of 6) grade E,21.10
+PLU-L1F,large plum (pack of 6) grade F,21.37
+PLU-L1G,large plum (pack of 6) grade G,8.56
+PLU-L1H,large plum (pack of 6) grade H,11.75
+PLU-L1I,large plum (pack of 6) grade I,18.92
+PLU-L1J,large plum (pack of 6) grade J,21.21
+PLU-L2A,large plum (pack of 12) grade A,22.24
+PLU-L2B,large plum (pack of 12) grade B,19.98
+PLU-L2C,large plum (pack of 12) grade C,21.19
+PLU-L2D,large plum (pack of 12) grade D,10.54
+PLU-L2E,large plum (pack of 12) grade E,21.83
+PLU-L2F,large plum (pack of 12) grade F,11.03
+PLU-L2G,large plum (pack of 12) grade G,23.31
+PLU-L2H,large plum (pack of 12) grade H,8.69
+PLU-L2I,large plum (pack of 12) grade I,18.73
+PLU-L2J,large plum (pack of 12) grade J,6.01
+PLU-L3A,large plum (crate) grade A,17.46
+PLU-L3B,large plum (crate) grade B,5.38
+PLU-L3C,large plum (crate) grade C,16.47
+PLU-L3D,large plum (crate) grade D,18.50
+PLU-L3E,large plum (crate) grade E,13.34
+PLU-L3F,large plum (crate) grade F,3.37
+PLU-L3G,large plum (crate) grade G,10.25
+PLU-L3H,large plum (crate) grade H,17.94
+PLU-L3I,large plum (crate) grade I,3.39
+PLU-L3J,large plum (crate) grade J,9.11
+FIG-S0A,small fig (single) grade A,12.80
+FIG-S0B,small fig (single) grade B,5.41
+FIG-S0C,small fig (single) grade C,6.72
+FIG-S0D,small fig (single) grade D,15.39
+FIG-S0E,small fig (single) grade E,6.25
+FIG-S0F,small fig (single) grade F,10.76
+FIG-S0G,small fig (single) grade G,6.02
+FIG-S0H,small fig (single) grade H,19.55
+FIG-S0I,small fig (single) grade I,9.39
+FIG-S0J,small fig (single) grade J,4.25
+FIG-S1A,small fig (pack of 6) grade A,16.71
+FIG-S1B,small fig (pack of 6) grade B,20.35
+FIG-S1C,small fig (pack of 6) grade C,7.06
+FIG-S1D,small fig (pack of 6) grade D,9.56
+FIG-S1E,small fig (pack of 6) grade E,7.01
+FIG-S1F,small fig (pack of 6) grade F,18.07
+FIG-S1G,small fig (pack of 6) grade G,21.51
+FIG-S1H,small fig (pack of 6) grade H,16.94
+FIG-S1I,small fig (pack of 6) grade I,14.29
+FIG-S1J,small fig (pack of 6) grade J,17.65
+FIG-S2A,small fig (pack of 12) grade A,8.41
+FIG-S2B,small fig (pack of 12) grade B,15.00
+FIG-S2C,small fig (pack of 12) grade C,13.44
+FIG-S2D,small fig (pack of 12) grade D,4.17
+FIG-S2E,small fig (pack of 12) grade E,15.38
+FIG-S2F,small fig (pack of 12) grade F,1.19
+FIG-S2G,small fig (pack of 12) grade G,14.24
+FIG-S2H,small fig (pack of 12) grade H,23.09
+FIG-S2I,small fig (pack of 12) grade I,19.18
+FIG-S2J,small fig (pack of 12) grade J,18.44
+FIG-S3A,small fig (crate) grade A,1.14
+FIG-S3B,small fig (crate) grade B,16.14
+FIG-S3C,small fig (crate) grade C,13.97
+FIG-S3D,small fig (crate) grade D,21.59
+FIG-S3E,small fig (crate) grade E,12.50
+FIG-S3F,small fig (crate) grade F,21.38
+FIG-S3G,small fig (crate) grade G,3.03
+FIG-S3H,small fig (crate) grade H,5.02
+FIG-S3I,small fig (crate) grade I,9.76
+FIG-S3J,small fig (crate) grade J,4.69
+FIG-M0A,medium fig (single) grade A,3.84
+FIG-M0B,medium fig (single) grade B,11.27
+FIG-M0C,medium fig (single) grade C,11.53
+FIG-M0D,medium fig (single) grade D,2.02
+FIG-M0E,medium fig (single) grade E,7.83
+FIG-M0F,medium fig (single) grade F,11.47
+FIG-M0G,medium fig (single) grade G,5.70
+FIG-M0H,medium fig (single) grade H,17.69
+FIG-M0I,medium fig (single) grade I,10.99
+FIG-M0J,medium fig (single) grade J,17.02
+FIG-M1A,medium fig (pack of 6) grade A,6.51
+FIG-M1B,medium fig (pack of 6) grade B,22.37
+FIG-M1C,medium fig (pack of 6) grade C,21.48
+FIG-M1D,medium fig (pack of 6) grade D,23.77
+FIG-M1E,medium fig (pack of 6) grade E,20.65
+FIG-M1F,medium fig (pack of 6) grade F,13.79
+FIG-M1G,medium fig (pack of 6) grade G,4.06
+FIG-M1H,medium fig (pack of 6) grade H,11.83
+FIG-M1I,medium fig (pack of 6) grade I,2.75
+FIG-M1J,medium fig (pack of 6) grade J,7.90
+FIG-M2A,medium fig (pack of 12) grade A,17.82
+FIG-M2B,medium fig (pack of 12) grade B,3.36
+FIG-M2C,medium fig (pack of 12) grade C,11.41
+FIG-M2D,medium fig (pack of 12) grade D,1.08
+FIG-M2E,medium fig (pack of 12) grade E,4.02
+FIG-M2F,medium fig (pack of 12) grade F,11.07
+FIG-M2G,medium fig (pack of 12) grade G,3.83
+FIG-M2H,medium fig (pack of 12) grade H,9.50
+FIG-M2I,medium fig (pack of 12) grade I,3.12
+FIG-M2J,medium fig (pack of 12) grade J,11.23
+FIG-M3A,medium fig (crate) grade A,5.38
+FIG-M3B,medium fig (crate) grade B,18.98
+FIG-M3C,medium fig (crate) grade C,0.87
+FIG-M3D,medium fig (crate) grade D,14.29
+FIG-M3E,medium fig (crate) grade E,23.05
+FIG-M3F,medium fig (crate) grade F,17.51
+FIG-M3G,medium fig (crate) grade G,11.37
+FIG-M3H,medium fig (crate) grade H,5.69
+FIG-M3I,medium fig (crate) grade I,2.16
+FIG-M3J,medium fig (crate) grade J,21.98
+FIG-L0A,large fig (single) grade A,10.16
+FIG-L0B,large fig (single) grade B,4.88
+FIG-L0C,large fig (single) grade C,7.01
+FIG-L0D,large fig (single) grade D,11.12
+FIG-L0E,large fig (single) grade E,2.46
+FIG-L0F,large fig (single) grade F,7.81
+FIG-L0G,large fig (single) grade G,8.66
+FIG-L0H,large fig (single) grade H,13.17
+FIG-L0I,large fig (single) grade I,12.89
+FIG-L0J,large fig (single) grade J,22.15
+FIG-L1A,large fig (pack of 6) grade A,8.83
+FIG-L1B,large fig (pack of 6) grade B,12.27
+FIG-L1C,large fig (pack of 6) grade C,18.65
+FIG-L1D,large fig (pack of 6) grade D,20.88
+FIG-L1E,large fig (pack of 6) grade E,7.68
+FIG-L1F,large fig (pack of 6) grade F,11.48
+FIG-L1G,large fig (pack of 6) grade G,14.61
+FIG-L1H,large fig (pack of 6) grade H,1.14
+FIG-L1I,large fig (pack of 6) grade I,10.65
+FIG-L1J,large fig (pack of 6) grade J,1.91
+FIG-L2A,large fig (pack of 12) grade A,1.02
+FIG-L2B,large fig (pack of 12) grade B,1.15
+FIG-L2C,large fig (pack of 12) grade C,21.11
+FIG-L2D,large fig (pack of 12) grade D,22.97
+FIG-L2E,large fig (pack of 12) grade E,8.16
+FIG-L2F,large fig (pack of 12) grade F,21.46
+FIG-L2G,large fig (pack of 12) grade G,19.84
+FIG-L2H,large fig (pack of 12) grade H,10.46
+FIG-L2I,large fig (pack of 12) grade I,18.71
+FIG-L2J,large fig (pack of 12) grade J,4.75
